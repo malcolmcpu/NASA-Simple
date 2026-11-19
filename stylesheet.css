@@ -9,6 +9,8 @@ body {
 h1 {
   margin: 0 0 1.75rem;
   color: #fff;
+  font-family: 'Lexend', sans-serif;
+  font-weight: 500;
 }
 
 input {
@@ -41,6 +43,8 @@ h2 {
   margin: 2.25rem 0 1rem;
   font-size: 1.5rem;
   color: #ffffff;
+  font-family: 'Lexend', sans-serif;
+  font-weight: 500;
 }
 
 #media-div {
